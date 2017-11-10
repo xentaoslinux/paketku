@@ -5,7 +5,6 @@ Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
 Homepage: https://github.com/xentaos/paketku
-Vcs-Git: git@github.com:xentaos/paketku.git
 Vcs-Browser: https://github.com/xentaos/paketku.git
 
 Package: paketku
