@@ -1,21 +1,22 @@
 Source: paketku
-Section: import/utils
+Section: utils
 Priority: optional
 Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
 Homepage: http://ww.xentaos.org/
-#Vcs-Git: git://anonscm.debian.org/collab-maint/paketku.git
-#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/paketku.git
+Vcs-Git: git@github.com:xentaos/paketku.git
+Vcs-Browser: https://github.com/xentaos/paketku.git
 
 Package: paketku
 Architecture: all
 Depends: paketku-dep
-Description: Paket Ku Utama
- Ini Paket Ku Sebagai Utama
+Description: Sebuah Contoh Paket.
+ Paketku merupakan sebuah paket contoh digunakan
+ sebagai Pustaka Tim Pemaketan dari Xenta OS.
 
 Package: paketku-dep
 Architecture: all
-Depends:  ${misc:Depends}
-Description: Paket Ku Dependency
- Ini Paket Ku Sebagai Utama Dependency
+Description: Sebuah Contoh Paket Depends.
+ Paketku merupakan sebuah paket contoh digunakan
+ sebagai Pustaka Tim Pemaketan dari Xenta OS.
