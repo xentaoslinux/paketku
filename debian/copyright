@@ -1,13 +1,14 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: paketku
+Upstream-Contact: Dindin Hernawan <root@dev.xentaos.org>
 Source: https://github.com/xentaos/paketku
 
 Files: *
-Copyright: 2017 Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Copyright: 2017 Dindin Hernawan
 License: GPL-3+
 
 Files: debian/*
-Copyright: 2017 Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Copyright: 2017 Dindin Hernawan
 License: GPL-3+
 
  This program is free software: you can redistribute it and/or modify
