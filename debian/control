@@ -10,12 +10,14 @@ Vcs-Browser: https://github.com/xentaos/paketku.git
 Package: paketku
 Architecture: all
 Depends: paketku-dep
-Description: Sebuah Contoh Paket.
+Description: Paket Contoh Buat Xenta OS Tim Pemaketan.
  Paketku merupakan sebuah paket contoh digunakan
  sebagai Pustaka Tim Pemaketan dari Xenta OS.
+ Ini Merupakan Paket Utama Sebagai Contoh.
 
 Package: paketku-dep
 Architecture: all
-Description: Sebuah Contoh Paket Depends.
+Description: Paket Contoh Buat Xenta OS Tim Pemaketan.
  Paketku merupakan sebuah paket contoh digunakan
  sebagai Pustaka Tim Pemaketan dari Xenta OS.
+ Ini Merupakan Paket Dependency dari Paket Paketku.
