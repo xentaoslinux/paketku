@@ -8,5 +8,5 @@ debian/debhelper-build-stamp
 
 # Directory Paket
 debian/paketku
-debian/paketku-deb
+debian/paketku-dep
 
